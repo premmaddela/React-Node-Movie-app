@@ -1,3 +1,8 @@
+# UI
+
+<img width="2881" alt="Screenshot 2025-03-29 at 1 19 14 PM" src="https://github.com/user-attachments/assets/76b0abf2-824c-492e-b915-4a23709b7690" />
+
+
 # Fullstack React Node App
 
 This is a full-stack application built with a React frontend and an Express/MongoDB backend. The app is designed to fetch and display animated movies, with features like pagination, lazy loading, and a responsive UI.
